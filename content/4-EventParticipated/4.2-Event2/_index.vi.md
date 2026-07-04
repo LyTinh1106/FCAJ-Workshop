@@ -79,6 +79,6 @@ Buổi meetup thực sự đã mang lại một không gian kết nối và trao
 
 ### Một số hình ảnh khi tham gia sự kiện
 
-![Check-in at the event](/images/4-Eventparticipated/event2.jpg)
+![Check-in at the event](/images/4-EventParticipated/event2.jpg)
 
 > Tổng thể, sự kiện đã mang lại cho tôi những kiến thức công nghệ hiện đại và những bài học nghề nghiệp vô cùng giá trị để vững bước hơn trên con đường DevOps/Sysadmin.

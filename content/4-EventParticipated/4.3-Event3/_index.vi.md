@@ -88,6 +88,6 @@ Buổi workshop mang lại góc nhìn toàn diện về thế giới giải phá
 
 ### Một số hình ảnh khi tham gia sự kiện
 
-![Check-in tại workshop](/images/4-Eventparticipated/event3.jpg)
+![Check-in tại workshop](/images/4-EventParticipated/event3.jpg)
 
 > Tổng thể, sự kiện đã trang bị cho tôi những nền tảng kiến thức vững chắc và nguồn cảm hứng mạnh mẽ để tiếp tục nghiên cứu sâu hơn về kiến trúc đám mây và công nghệ tác nhân trí tuệ nhân tạo.

@@ -76,7 +76,7 @@ Starting the morning on the 26th floor, the event was a deeply technical and ins
 
 ### Event Photos
 
-![Check-in on the 26th floor](/images/4-Eventparticipated/event1-1.jpg)
-![Check-in on the 26th floor](/images/4-Eventparticipated/event1-2.jpg)
+![Check-in on the 26th floor](/images/4-EventParticipated/event1-1.jpg)
+![Check-in on the 26th floor](/images/4-EventParticipated/event1-2.jpg)
 
 > Overall, the event was not only a place to catch up on the latest tech trends but also equipped me with solid, practical methodologies to confidently build, optimize, and integrate AI into modern applications.

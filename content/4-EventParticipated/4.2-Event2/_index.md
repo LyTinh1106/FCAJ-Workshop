@@ -80,6 +80,6 @@ The meetup provided an extremely dynamic and valuable space for networking and k
 
 ### Event Photos
 
-![Check-in at the event](/images/4-Eventparticipated/event2.jpg)
+![Check-in at the event](/images/4-EventParticipated/event2.jpg)
 
 > Overall, the event brought me modern technical knowledge and highly valuable career lessons to confidently move forward on the DevOps/Sysadmin path.

@@ -88,6 +88,6 @@ The workshop provided a comprehensive view of the cloud and AI solutions landsca
 
 ### Event Photos
 
-![Check-in at the workshop](/images/4-Eventparticipated/event3.jpg)
+![Check-in at the workshop](/images/4-EventParticipated/event3.jpg)
 
 > Overall, the event equipped me with solid foundational knowledge and strong inspiration to continue deep research into cloud architecture and artificial intelligence agents.
