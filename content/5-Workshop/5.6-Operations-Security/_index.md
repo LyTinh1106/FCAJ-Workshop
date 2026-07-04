@@ -37,7 +37,7 @@ In this section, you will:
 
 ### Content
 
-1. [IAM Policies](6.1-iam-policies/)
-2. [API Keys Management](6.2-api-keys-management/)
-3. [Monitoring & Alarms](6.3-monitoring-alarms/)
-4. [Cost & Budget](6.4-cost-budget/)
+1. [IAM Policies](5.6.1-iam-policies/)
+2. [API Keys Management](5.6.2-api-keys-management/)
+3. [Monitoring & Alarms](5.6.3-monitoring-alarms/)
+4. [Cost & Budget](5.6.4-cost-budget/)

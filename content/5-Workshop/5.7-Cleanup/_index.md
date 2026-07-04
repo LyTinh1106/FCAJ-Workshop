@@ -32,4 +32,4 @@ The following resources were created during this workshop:
 
 ### Content
 
-1. [Delete Resources](7.1-delete-resources/)
+1. [Delete Resources](5.7.1-delete-resources/)

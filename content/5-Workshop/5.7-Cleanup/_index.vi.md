@@ -32,4 +32,4 @@ Các tài nguyên sau đã được tạo trong workshop:
 
 ### Nội dung
 
-1. [Xóa Tài nguyên](7.1-delete-resources/)
+1. [Xóa Tài nguyên](5.7.1-delete-resources/)
