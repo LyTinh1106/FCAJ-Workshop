@@ -76,7 +76,7 @@ Bắt đầu buổi sáng từ tầng 26, sự kiện thực sự đã mang lạ
 
 ### Một số hình ảnh khi tham gia sự kiện
 
-![Check-in on the 26th floor](/images/4-eventparticipated/event1-1.jpg)
-![Check-in on the 26th floor](/images/4-eventparticipated/event1-2.jpg)
+![Check-in on the 26th floor](/images/4-Eventparticipated/event1-1.jpg)
+![Check-in on the 26th floor](/images/4-Eventparticipated/event1-2.jpg)
 
 > Tổng thể, sự kiện không chỉ là nơi cập nhật các xu hướng công nghệ mới nhất mà còn trang bị cho tôi những phương pháp luận thực tế, vững chắc để tự tin xây dựng, tối ưu hóa và tích hợp AI vào các ứng dụng hiện đại.
