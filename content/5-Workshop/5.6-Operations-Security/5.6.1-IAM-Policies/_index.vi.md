@@ -141,7 +141,7 @@ Policies:
 
 2. Tìm kiếm role của Lambda function (ví dụ: tìm `jobs-matching-backend` để xem tất cả roles của stack)
 
-![Tìm kiếm IAM Roles](/images/5-Workshop/5.6-Operation-Security/5.6.1-IAM-Policies/iam-roles-search.png)
+![Tìm kiếm IAM Roles](/images/5-Workshop/5.6-Operations-Security/5.6.1-IAM-Policies/iam-roles-search.png)
 
 3. Click vào role để xem các policies được gắn
 
