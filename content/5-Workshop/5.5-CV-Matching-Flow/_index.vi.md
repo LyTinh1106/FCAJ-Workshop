@@ -26,7 +26,7 @@ User action trên frontend
   -> Lưu kết quả vào DynamoDB Match Results table
 ```
 
-![Architecture](/images/5-Workshop/Architecture-v2.png)
+![Architecture](/images/5-Workshop/Jobs-Matching-Platform-v3.drawio.png)
 
 ## Thông tin implementation
 

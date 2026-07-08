@@ -27,7 +27,7 @@ User action on frontend
   -> Store result in DynamoDB Match Results table
 ```
 
-![Architecture](/images/5-Workshop/Architecture-v2.png)
+![Architecture](/images/5-Workshop/Jobs-Matching-Platform-v3.drawio.png)
 
 ## Implementation references
 
