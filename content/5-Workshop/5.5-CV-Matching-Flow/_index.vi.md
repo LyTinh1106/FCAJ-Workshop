@@ -6,7 +6,6 @@ chapter : false
 pre : " <b> 5.5. </b> "
 ---
 
-
 ## Tổng quan
 
 Phần này mô tả luồng đánh giá CV đang được dùng trong AI Job Matching Platform. Luồng bắt đầu khi người dùng yêu cầu đánh giá mức độ phù hợp giữa CV và công việc từ frontend. Request đi qua API Gateway đến Lambda, sau đó Lambda đọc CV từ S3, trích xuất văn bản bằng Amazon Textract, lấy mô tả công việc từ DynamoDB, đánh giá bằng Gemini 3.1 Flash Lite, rồi lưu kết quả vào DynamoDB.

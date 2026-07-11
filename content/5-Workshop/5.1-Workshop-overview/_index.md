@@ -18,4 +18,9 @@ The workshop consists of these main workflows:
 + **CV Matching Flow**: When a user uploads a resume to Amazon S3, an event automatically triggers Lambda to extract the text content, communicate with an AI service (Gemini) to evaluate the CV against the job description, and generate a suitability score.
 + **User Interaction & Security**: The front-end web application is hosted on AWS Amplify. User authentication is managed by Amazon Cognito, and all RESTful APIs are securely distributed and protected by AWS WAF combined with Amazon API Gateway.
 
+#### Live Demo
+{{% notice tip %}}
+You can experience the completed web application here: **[Jobs Matching Platform](https://main.d11bs7h108pe40.amplifyapp.com)**
+{{% /notice %}}
+
 ![Architecture](/images/5-Workshop/Jobs-Matching-Platform-v3.drawio.png)

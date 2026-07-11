@@ -74,3 +74,9 @@ frontend:
       - frontend/node_modules/**/*
       - frontend/.next/cache/**/*
 ```
+
+## 4. Completed Application
+
+{{% notice tip %}}
+Check out the fully functional live application at: **[Jobs Matching Platform](https://main.d11bs7h108pe40.amplifyapp.com)**
+{{% /notice %}}

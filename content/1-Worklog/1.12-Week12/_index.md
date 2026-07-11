@@ -11,5 +11,6 @@ pre: " <b> 1.12. </b> "
 * Complete the project and write the final report.
 
 ### Tasks to be carried out this week:
-
-* This week's content will be finalized later.
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | --- | --- | --- | --- |
+| 2 | **Write internship report**<br>- Draft and compile the final internship report covering project milestones, architectures, and outcomes.<br>- Review and format the documentation. | 06/07/2026 | 10/07/2026 | |

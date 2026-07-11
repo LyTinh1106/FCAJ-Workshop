@@ -6,8 +6,6 @@ chapter : false
 pre : " <b> 5.5. </b> "
 ---
 
-# CV Matching Flow
-
 ## Overview
 
 This section explains the CV Matching Flow used by the AI Job Matching Platform. The flow starts when a user requests a CV-to-job evaluation from the frontend. The request goes through API Gateway to Lambda, then Lambda reads the CV from S3, extracts text with Amazon Textract, loads the job description from DynamoDB, evaluates the match with Gemini 3.1 Flash Lite, and stores the result in DynamoDB.

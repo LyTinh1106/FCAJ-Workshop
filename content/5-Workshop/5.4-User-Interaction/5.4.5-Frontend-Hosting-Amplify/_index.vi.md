@@ -74,3 +74,9 @@ frontend:
       - frontend/node_modules/**/*
       - frontend/.next/cache/**/*
 ```
+
+## 4. Ứng dụng Hoàn thiện
+
+{{% notice tip %}}
+Trải nghiệm trực tuyến và đối chiếu ứng dụng hoàn chỉnh tại đường dẫn: **[Jobs Matching Platform](https://main.d11bs7h108pe40.amplifyapp.com)**
+{{% /notice %}}

@@ -11,5 +11,6 @@ pre: " <b> 1.12. </b> "
 * Hoàn thiện dự án, viết báo cáo.
 
 ### Các công việc cần triển khai trong tuần này:
-
-* Nội dung tuần này sẽ được hoàn thiện sau
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | **Viết báo cáo thực tập**<br>- Soạn thảo và hoàn thiện báo cáo thực tập chi tiết về tiến độ dự án, cách thức triển khai và kết quả đạt được.<br>- Xem xét và chuẩn hóa định dạng tài liệu. | 06/07/2026 | 10/07/2026 | |
